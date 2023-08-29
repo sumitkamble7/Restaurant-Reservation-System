@@ -1,0 +1,36 @@
+#header{
+    background: rgb(0, 0, 0);
+}
+#rss{
+    font-family: emoji;
+    font-weight: bold;
+    color: lightgoldenrodyellow;
+    text-shadow: 5px 5px 5px black;
+}
+#rss2{
+    font-family: emoji;
+    font-weight: bold;
+    font-size: x-large;
+    text-shadow: 5px 5px 5px black;
+}
+#AboutUs{
+    font-weight: 700;
+    font-size: x-large;
+    font-family: initial;
+    color: black;
+}
+#para1{
+    font-family: cursive;
+}
+#para2{
+    font-family: cursive;
+}
+@keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-15px); /* Adjust the bounce height as needed */
+    }
+  }
+  
